@@ -1,0 +1,558 @@
+.mainsecondmenu-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.mainsecondmenu-mainsecondmenu {
+  width: 100%;
+  height: 852px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.mainsecondmenu-header {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 158.25px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mainsecondmenu-logo122 {
+  top: 55px;
+  left: 152px;
+  width: 87px;
+  height: 87px;
+  position: absolute;
+}
+.mainsecondmenu-text {
+  top: 15px;
+  left: 87px;
+  color: rgba(88, 20, 120, 0.8999999761581421);
+  width: 217px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Bauhaus 93;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainsecondmenu-text02 {
+  top: 85px;
+  left: 156px;
+  color: rgba(0, 0, 0, 0.6700000166893005);
+  width: 76px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Medium;
+  text-align: center;
+  font-family: Livvic;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainsecondmenu-menuvector {
+  top: 60px;
+  left: 316px;
+  width: 34px;
+  height: 32px;
+  position: absolute;
+}
+.mainsecondmenu-basket {
+  top: 49px;
+  left: 40px;
+  width: 30px;
+  height: 29px;
+  position: absolute;
+}
+.mainsecondmenu-frame2 {
+  top: 216px;
+  left: 20px;
+  width: 350px;
+  height: 532px;
+  display: flex;
+  opacity: 0.10;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mainsecondmenu-spiral2 {
+  top: 53px;
+  left: 12px;
+  width: 326px;
+  height: 425px;
+  position: absolute;
+}
+.mainsecondmenu-contacts {
+  top: 284px;
+  left: 0px;
+  width: 350px;
+  height: 248px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mainsecondmenu-text04 {
+  top: 182px;
+  left: 12px;
+  color: rgba(0, 0, 0, 1);
+  width: 330px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Livvic;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainsecondmenu-text05 {
+  font-weight: 200;
+}
+.mainsecondmenu-text07 {
+  left: 10px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Livvic;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainsecondmenu-text09 {
+  top: 130px;
+  left: 10px;
+  color: rgba(64, 20, 120, 0.8999999761581421);
+  width: 330px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Livvic;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainsecondmenu-text11 {
+  top: 36px;
+  left: 10px;
+  color: rgba(0, 0, 0, 1);
+  width: 330px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Livvic;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainsecondmenu-text12 {
+  font-weight: 200;
+}
+.mainsecondmenu-newworks {
+  top: 40px;
+  left: 10px;
+  width: 340px;
+  height: 234px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mainsecondmenu-rectangle1 {
+  top: 0px;
+  left: 3px;
+  width: 99px;
+  height: 132px;
+  position: absolute;
+  border-color: rgba(88, 20, 120, 0.5);
+  border-style: solid;
+  border-width: 1px;
+}
+.mainsecondmenu-image1picture {
+  top: 6px;
+  left: 7px;
+  width: 90px;
+  height: 121px;
+  opacity: 0.50;
+  position: absolute;
+}
+.mainsecondmenu-rectangle2 {
+  top: 0px;
+  left: 118px;
+  width: 99px;
+  height: 132px;
+  position: absolute;
+  border-color: rgba(88, 20, 120, 0.5);
+  border-style: solid;
+  border-width: 1px;
+}
+.mainsecondmenu-image2picture {
+  top: 6px;
+  left: 123px;
+  width: 90px;
+  height: 121px;
+  opacity: 0.50;
+  position: absolute;
+}
+.mainsecondmenu-rectangle3 {
+  top: 0px;
+  left: 233px;
+  width: 99px;
+  height: 132px;
+  position: absolute;
+  border-color: rgba(88, 20, 120, 0.5);
+  border-style: solid;
+  border-width: 1px;
+}
+.mainsecondmenu-image3picture {
+  top: 6px;
+  left: 236px;
+  width: 90px;
+  height: 121px;
+  opacity: 0.50;
+  position: absolute;
+}
+.mainsecondmenu-text20 {
+  top: 145px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  width: 332px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Livvic;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainsecondmenu-frame9 {
+  top: 121px;
+  left: 107px;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mainsecondmenu-insta {
+  top: 774px;
+  left: 116px;
+  width: 46px;
+  height: 46px;
+  display: flex;
+  opacity: 0.10;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mainsecondmenu-group {
+  top: 4.3125px;
+  left: 4.312499523162842px;
+  width: 37.375px;
+  height: 37.375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mainsecondmenu-vector {
+  top: 1.4375px;
+  left: 1.4375004768371582px;
+  width: 34px;
+  height: 34px;
+  opacity: 0.20;
+  position: absolute;
+}
+.mainsecondmenu-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 37px;
+  height: 37px;
+  position: absolute;
+}
+.mainsecondmenu-twitter {
+  top: 769px;
+  left: 224px;
+  width: 51px;
+  height: 54px;
+  opacity: 0.10;
+  position: absolute;
+}
+.mainsecondmenu-facebook {
+  top: 777px;
+  left: 174px;
+  width: 39px;
+  height: 40px;
+  display: flex;
+  opacity: 0.10;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mainsecondmenu-group1 {
+  top: 1.5384925603866577px;
+  left: 1.623213529586792px;
+  width: 35.75173568725586px;
+  height: 36.79484176635742px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mainsecondmenu-backgroundfacebook {
+  top: 9.171493076109982e-8px;
+  left: 0.6267700791358948px;
+  width: 34px;
+  height: 36px;
+  position: absolute;
+}
+.mainsecondmenu-vector2 {
+  top: 0.12817397713661194px;
+  left: 4.440892098500626e-16px;
+  width: 36px;
+  height: 37px;
+  position: absolute;
+}
+.mainsecondmenu-vector3 {
+  top: 6.153831481933594px;
+  left: 11.918722152709961px;
+  width: 18px;
+  height: 31px;
+  position: absolute;
+}
+.mainsecondmenu-lineleft {
+  top: 174px;
+  left: 10px;
+  width: 673px;
+  height: 1px;
+  opacity: 0.15;
+  position: absolute;
+}
+.mainsecondmenu-lineright {
+  top: 174px;
+  left: 380px;
+  width: 673px;
+  height: 1px;
+  opacity: 0.15;
+  position: absolute;
+}
+.mainsecondmenu-menu {
+  top: 158px;
+  left: 3px;
+  width: 393px;
+  height: 694px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mainsecondmenu-rectangle12 {
+  top: 0px;
+  left: 0px;
+  width: 393px;
+  height: 694px;
+  position: absolute;
+  border-radius: 10px 10px 0 0;
+}
+.mainsecondmenu-shop {
+  top: 350px;
+  left: 265px;
+  width: 104px;
+  height: 35px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mainsecondmenu-vector4 {
+  top: 0px;
+  left: 67px;
+  width: 37px;
+  height: 35px;
+  position: absolute;
+}
+.mainsecondmenu-text22 {
+  top: 3px;
+  color: rgba(0, 0, 0, 1);
+  width: 61px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ExtraLight;
+  text-align: center;
+  font-family: Livvic;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainsecondmenu-reviews {
+  top: 198px;
+  left: 238px;
+  width: 131px;
+  height: 37px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mainsecondmenu-review {
+  top: 0px;
+  left: 94px;
+  width: 37px;
+  height: 37px;
+  position: absolute;
+}
+.mainsecondmenu-text24 {
+  top: 3px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ExtraLight;
+  text-align: center;
+  font-family: Livvic;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainsecondmenu-aboutus {
+  top: 45px;
+  left: 229px;
+  width: 140px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mainsecondmenu-vector5 {
+  top: 0px;
+  left: 103.18425750732422px;
+  width: 37px;
+  height: 36px;
+  position: absolute;
+}
+.mainsecondmenu-text26 {
+  top: 2.9387755393981934px;
+  color: rgba(0, 0, 0, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ExtraLight;
+  text-align: center;
+  font-family: Livvic;
+  font-weight: 200;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainsecondmenu-portfolio {
+  top: 121px;
+  left: 233px;
+  width: 136px;
+  height: 37px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mainsecondmenu-portfolio1 {
+  top: 0px;
+  left: 99px;
+  width: 37px;
+  height: 37px;
+  position: absolute;
+}
+.mainsecondmenu-text28 {
+  top: 4px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ExtraLight;
+  text-align: center;
+  font-family: Livvic;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainsecondmenu-account {
+  top: 275px;
+  left: 231px;
+  width: 139px;
+  height: 35px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mainsecondmenu-accountlogo {
+  top: 0px;
+  left: 102px;
+  width: 37px;
+  height: 35px;
+  position: absolute;
+}
+.mainsecondmenu-text30 {
+  top: 3px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ExtraLight;
+  text-align: center;
+  font-family: Livvic;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainsecondmenu-stairs1 {
+  top: 155px;
+  left: 18px;
+  width: 358px;
+  height: 398px;
+  position: absolute;
+}
